@@ -1,7 +1,3 @@
-This revised version incorporates the specific architectural details and metrics from your resume, cleans up the formatting, and adds the crucial privacy disclaimer for engineering reviewers.
-
----
-
 # Hybrid Image Encryption System (CNN/UNET Autoencoders & Chaotic Cryptography)
 
 > **Note:** The source code for this project is currently hosted in a private repository due to confidentiality constraints. This repository serves as an architectural and technical overview of the system.
